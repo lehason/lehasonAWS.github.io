@@ -1,6 +1,0 @@
----
-title: "1. Nhật ký công việc"
-weight: 1
----
-
-Đây là trang Nhật ký công việc theo từng tuần.
