@@ -1,0 +1,6 @@
+---
+title: "5. Workshop"
+weight: 5
+---
+
+Đây là phần báo cáo chi tiết về dự án Workshop kỹ thuật AWS.
