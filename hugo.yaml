@@ -1,3 +1,10 @@
-baseURL: https://example.org/
-locale: en-us
-title: My New Hugo Project
+baseURL: 'https://lehason.github.io/lehasonAWS.github.io/'
+languageCode: 'vi-vn'
+defaultContentLanguage: 'vi'
+title: 'Báo cáo thực tập AWS'
+theme: 'hugo-theme-relearn'
+
+params:
+  editURL: ''
+  showNextPrev: true
+  themeVariant: 'blue'
