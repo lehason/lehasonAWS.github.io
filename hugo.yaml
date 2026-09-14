@@ -1,10 +1,19 @@
 baseURL: 'https://lehason.github.io/lehasonAWS.github.io/'
-languageCode: 'vi-vn'
+languageCode: 'vi'
 defaultContentLanguage: 'vi'
 title: 'Báo cáo thực tập AWS'
 theme: 'hugo-theme-relearn'
 
 params:
-  editURL: ''
+  themeVariant: 'auto'
   showNextPrev: true
-  themeVariant: 'blue'
+  disableLandingPageButton: true
+
+menu:
+  shortcuts:
+    - name: '<i class="fab fa-aws"></i> AWS Study Group - Blog'
+      url: 'http://awsstudygroup.com'
+      weight: 11
+    - name: '<i class="fab fa-facebook"></i> AWS Study Group - Nhóm FB'
+      url: 'https://www.facebook.com/groups/awsstudygroupfcj'
+      weight: 12
